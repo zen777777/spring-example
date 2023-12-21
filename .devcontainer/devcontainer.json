@@ -18,7 +18,8 @@
 				"vscjava.vscode-java-pack",
 				"vscjava.vscode-spring-initializr",
 				"oderwat.indent-rainbow",
-				"Teloru.dango-theme"
+				"Teloru.dango-theme",
+				"vmware.vscode-boot-dev-pack"
 			]
 		}
 	}
